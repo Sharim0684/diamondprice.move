@@ -1,0 +1,7 @@
+## which command used to install this library--> pip install -r requirements.txt
+numpy 
+pandas 
+Flask
+Scikit-learn
+Seaborn
+-e .
